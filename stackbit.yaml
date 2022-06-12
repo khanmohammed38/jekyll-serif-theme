@@ -189,7 +189,7 @@ models:
     file: contact.yml
     fields:
       - type: string
-        name: email
+        name: address
         label: Email
       - type: string
         name: phone
